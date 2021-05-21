@@ -1,0 +1,9 @@
+name: EditSignByCommand
+main: work.raru.spigot.signedit.Main
+version: 1.0
+author: ozraru
+commands:
+  editsign:
+    description: Edit placced sign
+    permission: signedit.editsign
+    usage: /editsign <line1> [line2] [line3] [line4]
